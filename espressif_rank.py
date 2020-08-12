@@ -24,13 +24,13 @@ while True:
 
     for repo in repo_array:
         if not repo['fork']:
-            repo_list.append([repo['name'], repo['stargazers_count'], repo['forks_count']])
+            repo_list.append([repo['name'], repo['stargazers_count'], repo['forks_count'], repo['description']])
     page_id += 1
 
 # sort by number of stars
 repo_list = sorted(repo_list, key=lambda x: x[1], reverse=True)
 
-print('=' * 55)
-print('\n'.join(['{: <30}★{: <10}\tfork {} '.format(*repo) for repo in repo_list]))
-print('=' * 55)
+print('=' * 100)
+print('\n'.join(['{: <30}★{: <10}\tfork {: <10}\t\t{} '.format(*repo) for repo in repo_list]))
+print('=' * 100)
 print('{: <30}★{: <10}\tfork {} '.format('total', sum([i[1] for i in repo_list]), sum([i[2] for i in repo_list])))
