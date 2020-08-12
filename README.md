@@ -1,5 +1,6 @@
+```
 Espressif Systems Github Star Rank 2020-08-12
-====================================================================================================
+============================================================================================================================================================
 esp-idf                       ★5203      	fork 3265      		Espressif IoT Development Framework. Official development framework for ESP32. 
 arduino-esp32                 ★5193      	fork 3188      		Arduino core for the ESP32 
 esptool                       ★3294      	fork 873       		ESP8266 and ESP32 serial bootloader utility 
@@ -72,5 +73,6 @@ xtensa-overlays               ★4         	fork 2         		Configuration overl
 esp-faq                       ★3         	fork 0         		None 
 github-actions                ★3         	fork 1         		Github Actions developed/used by Espressif 
 esp-cryptoauthlib             ★1         	fork 2         		Release only fork of https://github.com/MicrochipTech/cryptoauthlib 
-====================================================================================================
+============================================================================================================================================================
 total                         ★24598     	fork 12228 
+```
