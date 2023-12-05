@@ -1,0 +1,40 @@
+name: Update Espressif Systems Github Star Rank
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+
+jobs:
+  update_rank:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt 
+      - name: Run Python script
+        run: python espressif_rank.py
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Commit changes
+        run: |
+          git config --global user.email "libo_go@163.com"
+          git config --global user.name "Bot"
+          git add .
+          git commit -m "Update Espressif Systems Github Star Rank - ${{ steps.date.outputs.date }}" || echo "No changes to commit"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
