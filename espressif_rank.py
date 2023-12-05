@@ -47,13 +47,16 @@ while True:
 # sort by number of stars
 repo_list = sorted(repo_list, key=lambda x: x[1], reverse=True)
 
+total_stars = sum([i[1] for i in repo_list])
+total_forks = sum([i[2] for i in repo_list])
+
+output_message += f'## Total Star 🌟: {total_stars}, Total Fork 🌳: {total_forks}\n\n'
+
 output_message += '[![Update Espressif Systems Github Star Rank](https://github.com/leeebo/espressif_star_counter/actions/workflows/update_rank.yml/badge.svg)](https://github.com/leeebo/espressif_star_counter/actions/workflows/update_rank.yml)\n\n'
 output_message += '| Repository | Stars | Forks | Description |\n'
 output_message += '|------------|-------|-------|-------------|\n'
 for repo in repo_list:
     output_message += f"| [{repo[0]}]({repo[4]}) | {repo[1]} | {repo[2]} | {repo[3]} |\n"
-
-output_message += f'\n**Total Stars:** {sum([i[1] for i in repo_list])}, **Total Forks:** {sum([i[2] for i in repo_list])}'
 
 # Save the output to README.md
 with open('README.md', 'w') as readme_file:
