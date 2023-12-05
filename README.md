@@ -1,5 +1,7 @@
 # Espressif Systems Github Star Rank 2023-12-05
 
+## Total Star 🌟: 57426, Total Fork 🌳: 26462
+
 [![Update Espressif Systems Github Star Rank](https://github.com/leeebo/espressif_star_counter/actions/workflows/update_rank.yml/badge.svg)](https://github.com/leeebo/espressif_star_counter/actions/workflows/update_rank.yml)
 
 | Repository | Stars | Forks | Description |
@@ -13,7 +15,7 @@
 | [esp32-camera](https://github.com/espressif/esp32-camera) | 1493 | 570 | None |
 | [esp-adf](https://github.com/espressif/esp-adf) | 1324 | 637 | Espressif Audio Development Framework |
 | [ESP8266_NONOS_SDK](https://github.com/espressif/ESP8266_NONOS_SDK) | 894 | 527 | ESP8266 nonOS SDK |
-| [vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) | 858 | 276 | Visual Studio Code extension for ESP-IDF projects |
+| [vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) | 859 | 276 | Visual Studio Code extension for ESP-IDF projects |
 | [esp-mdf](https://github.com/espressif/esp-mdf) | 746 | 251 | Espressif Mesh Development Framework, limited maintain, recommend to use https://github.com/espressif/esp-mesh-lite |
 | [ESP8266_MP3_DECODER](https://github.com/espressif/ESP8266_MP3_DECODER) | 740 | 186 | A demo that should be run with ESP8266 Non-OS SDK |
 | [esp-at](https://github.com/espressif/esp-at) | 714 | 534 | AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266 |
@@ -183,5 +185,3 @@
 | [this-month-in-esps](https://github.com/espressif/this-month-in-esps) | 0 | 0 | None |
 | [upload-components-ci-action](https://github.com/espressif/upload-components-ci-action) | 0 | 4 | GitHub Action to upload ESP-IDF components to the component registry |
 | [xtensa-dynconfig](https://github.com/espressif/xtensa-dynconfig) | 0 | 0 | Configuration plugin generator for the GNU xtensa toolchain |
-
-**Total Stars:** 57425, **Total Forks:** 26462
