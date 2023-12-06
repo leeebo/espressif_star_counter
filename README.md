@@ -1,18 +1,18 @@
-# Espressif Systems Github Star Rank 2023-12-05
+# Espressif Systems Github Star Rank 2023-12-06
 
-## Total Star 🌟: 57426, Total Fork 🌳: 26462
+## Total Star 🌟: 57438, Total Fork 🌳: 26463
 
 [![Update Espressif Systems Github Star Rank](https://github.com/leeebo/espressif_star_counter/actions/workflows/update_rank.yml/badge.svg)](https://github.com/leeebo/espressif_star_counter/actions/workflows/update_rank.yml)
 
 | Repository | Stars | Forks | Description |
 |------------|-------|-------|-------------|
-| [arduino-esp32](https://github.com/espressif/arduino-esp32) | 11689 | 7048 | Arduino core for the ESP32 |
-| [esp-idf](https://github.com/espressif/esp-idf) | 11639 | 6783 | Espressif IoT Development Framework. Official development framework for Espressif SoCs. |
-| [esptool](https://github.com/espressif/esptool) | 5069 | 1322 | Espressif SoC serial bootloader utility |
-| [ESP8266_RTOS_SDK](https://github.com/espressif/ESP8266_RTOS_SDK) | 3157 | 1522 | Latest ESP8266 SDK based on FreeRTOS, esp-idf style. |
+| [arduino-esp32](https://github.com/espressif/arduino-esp32) | 11691 | 7047 | Arduino core for the ESP32 |
+| [esp-idf](https://github.com/espressif/esp-idf) | 11643 | 6785 | Espressif IoT Development Framework. Official development framework for Espressif SoCs. |
+| [esptool](https://github.com/espressif/esptool) | 5071 | 1321 | Espressif SoC serial bootloader utility |
+| [ESP8266_RTOS_SDK](https://github.com/espressif/ESP8266_RTOS_SDK) | 3157 | 1523 | Latest ESP8266 SDK based on FreeRTOS, esp-idf style. |
 | [esp-iot-solution](https://github.com/espressif/esp-iot-solution) | 1629 | 693 | Espressif IoT Library. IoT Device Drivers, Documentations And Solutions. |
 | [esp-who](https://github.com/espressif/esp-who) | 1535 | 442 | Face detection and recognition framework |
-| [esp32-camera](https://github.com/espressif/esp32-camera) | 1493 | 570 | None |
+| [esp32-camera](https://github.com/espressif/esp32-camera) | 1495 | 570 | None |
 | [esp-adf](https://github.com/espressif/esp-adf) | 1324 | 637 | Espressif Audio Development Framework |
 | [ESP8266_NONOS_SDK](https://github.com/espressif/ESP8266_NONOS_SDK) | 894 | 527 | ESP8266 nonOS SDK |
 | [vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) | 859 | 276 | Visual Studio Code extension for ESP-IDF projects |
@@ -29,16 +29,16 @@
 | [esp-matter](https://github.com/espressif/esp-matter) | 483 | 120 | Espressif's SDK for Matter |
 | [esp-homekit-sdk](https://github.com/espressif/esp-homekit-sdk) | 480 | 86 | None |
 | [ESP8266_AT](https://github.com/espressif/ESP8266_AT) | 471 | 230 | This project is not maintained, please use https://github.com/espressif/esp-at. |
-| [esp-hosted](https://github.com/espressif/esp-hosted) | 470 | 122 | Hosted Solution (Linux/MCU) with ESP32 (Wi-Fi + BT + BLE) |
+| [esp-hosted](https://github.com/espressif/esp-hosted) | 469 | 122 | Hosted Solution (Linux/MCU) with ESP32 (Wi-Fi + BT + BLE) |
 | [esp-skainet](https://github.com/espressif/esp-skainet) | 431 | 98 | Espressif intelligent voice assistant |
-| [esp-dl](https://github.com/espressif/esp-dl) | 421 | 111 | Espressif deep-learning library for AIoT applications |
-| [esp-sr](https://github.com/espressif/esp-sr) | 410 | 86 | Speech recognition |
+| [esp-dl](https://github.com/espressif/esp-dl) | 422 | 111 | Espressif deep-learning library for AIoT applications |
+| [esp-sr](https://github.com/espressif/esp-sr) | 411 | 86 | Speech recognition |
 | [rust-esp32-example](https://github.com/espressif/rust-esp32-example) | 386 | 36 | Example of Rust integration into an ESP-IDF project, for ESP32 series of chips |
 | [esp-dsp](https://github.com/espressif/esp-dsp) | 376 | 84 | DSP library for ESP-IDF |
 | [esp-rainmaker](https://github.com/espressif/esp-rainmaker) | 362 | 127 | ESP RainMaker Agent for firmware development |
 | [esp-now](https://github.com/espressif/esp-now) | 342 | 78 | A connectionless Wi-Fi communication protocol |
 | [esp-aliyun](https://github.com/espressif/esp-aliyun) | 331 | 151 | Aliyun Iotkit-embedded, support esp32 & esp8266. |
-| [openocd-esp32](https://github.com/espressif/openocd-esp32) | 318 | 122 | OpenOCD branch with ESP32 JTAG support |
+| [openocd-esp32](https://github.com/espressif/openocd-esp32) | 319 | 122 | OpenOCD branch with ESP32 JTAG support |
 | [esp-idf-template](https://github.com/espressif/esp-idf-template) | 312 | 195 | Template application for https://github.com/espressif/esp-idf |
 | [esp-serial-flasher](https://github.com/espressif/esp-serial-flasher) | 280 | 89 | Library for flashing Espressif SoCs from other MCUs. |
 | [idf-eclipse-plugin](https://github.com/espressif/idf-eclipse-plugin) | 277 | 113 | Espressif-IDE (based on Eclipse CDT) for ESP-IDF CMake based projects 4.x and above |
