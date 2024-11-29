@@ -21,7 +21,9 @@ jobs:
         run: |
           pip install -r requirements.txt 
       - name: Run Python script
-        run: python espressif_rank.py
+        run: |
+          python espressif_rank.py
+          python stats.py
 
       - name: Get current date
         id: date

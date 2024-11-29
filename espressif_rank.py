@@ -51,8 +51,8 @@ total_stars = sum([i[1] for i in repo_list])
 total_forks = sum([i[2] for i in repo_list])
 
 output_message += f'## Total Star 🌟: {total_stars}, Total Fork 🌳: {total_forks}\n\n'
-
 output_message += '[![Update Espressif Systems Github Star Rank](https://github.com/leeebo/espressif_star_counter/actions/workflows/update_rank.yml/badge.svg)](https://github.com/leeebo/espressif_star_counter/actions/workflows/update_rank.yml)\n\n'
+output_message += f'![](stats/stats_total_star_fork_' + str(today.year) + '.png)\n\n'
 output_message += '| Repository | Stars | Forks | Description |\n'
 output_message += '|------------|-------|-------|-------------|\n'
 for repo in repo_list:
