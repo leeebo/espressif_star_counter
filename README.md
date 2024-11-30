@@ -1,6 +1,6 @@
-# Espressif Systems Github Star Rank 2024-11-29
+# Espressif Systems Github Star Rank 2024-11-30
 
-## Total Star 🌟: 69343, Total Fork 🌳: 29317
+## Total Star 🌟: 69374, Total Fork 🌳: 29321
 
 [![Update Espressif Systems Github Star Rank](https://github.com/leeebo/espressif_star_counter/actions/workflows/update_rank.yml/badge.svg)](https://github.com/leeebo/espressif_star_counter/actions/workflows/update_rank.yml)
 
@@ -8,62 +8,62 @@
 
 | Repository | Stars | Forks | Description |
 |------------|-------|-------|-------------|
-| [esp-idf](https://github.com/espressif/esp-idf) | 13860 | 7323 | Espressif IoT Development Framework. Official development framework for Espressif SoCs. |
-| [arduino-esp32](https://github.com/espressif/arduino-esp32) | 13751 | 7433 | Arduino core for the ESP32 |
-| [esptool](https://github.com/espressif/esptool) | 5602 | 1386 | Espressif SoC serial bootloader utility |
+| [esp-idf](https://github.com/espressif/esp-idf) | 13868 | 7323 | Espressif IoT Development Framework. Official development framework for Espressif SoCs. |
+| [arduino-esp32](https://github.com/espressif/arduino-esp32) | 13754 | 7435 | Arduino core for the ESP32 |
+| [esptool](https://github.com/espressif/esptool) | 5604 | 1386 | Espressif SoC serial bootloader utility |
 | [ESP8266_RTOS_SDK](https://github.com/espressif/ESP8266_RTOS_SDK) | 3347 | 1565 | Latest ESP8266 SDK based on FreeRTOS, esp-idf style. |
 | [esp-iot-solution](https://github.com/espressif/esp-iot-solution) | 1991 | 788 | Espressif IoT Library. IoT Device Drivers, Documentations and Solutions. |
-| [esp32-camera](https://github.com/espressif/esp32-camera) | 1946 | 645 | None |
+| [esp32-camera](https://github.com/espressif/esp32-camera) | 1947 | 647 | None |
 | [esp-who](https://github.com/espressif/esp-who) | 1701 | 468 | Face detection and recognition framework |
-| [esp-adf](https://github.com/espressif/esp-adf) | 1564 | 691 | Espressif Audio Development Framework |
-| [vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) | 1076 | 306 | Visual Studio Code extension for ESP-IDF projects |
+| [esp-adf](https://github.com/espressif/esp-adf) | 1565 | 691 | Espressif Audio Development Framework |
+| [vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) | 1077 | 306 | Visual Studio Code extension for ESP-IDF projects |
 | [ESP8266_NONOS_SDK](https://github.com/espressif/ESP8266_NONOS_SDK) | 931 | 536 | ESP8266 nonOS SDK |
-| [esp-at](https://github.com/espressif/esp-at) | 916 | 833 | AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266 |
-| [esp-drone](https://github.com/espressif/esp-drone) | 833 | 243 | Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs. |
+| [esp-at](https://github.com/espressif/esp-at) | 917 | 833 | AT application for ESP32/ESP32-C2/ESP32-C3/ESP32-C6/ESP8266 |
+| [esp-drone](https://github.com/espressif/esp-drone) | 835 | 243 | Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs. |
 | [esp-box](https://github.com/espressif/esp-box) | 811 | 191 | The ESP-BOX is a new generation AIoT development platform released by Espressif Systems. |
 | [esp-mdf](https://github.com/espressif/esp-mdf) | 780 | 253 | Espressif Mesh Development Framework, limited maintain, recommend to use https://github.com/espressif/esp-mesh-lite |
-| [kicad-libraries](https://github.com/espressif/kicad-libraries) | 775 | 109 | KiCad libraries for Espressif SoCs, modules, and DevKits. |
+| [kicad-libraries](https://github.com/espressif/kicad-libraries) | 776 | 109 | KiCad libraries for Espressif SoCs, modules, and DevKits. |
 | [ESP8266_MP3_DECODER](https://github.com/espressif/ESP8266_MP3_DECODER) | 745 | 190 | A demo that should be run with ESP8266 Non-OS SDK |
-| [esp-csi](https://github.com/espressif/esp-csi) | 722 | 111 | Applications based on Wi-Fi CSI (Channel state information), such as indoor positioning, human detection |
+| [esp-csi](https://github.com/espressif/esp-csi) | 723 | 111 | Applications based on Wi-Fi CSI (Channel state information), such as indoor positioning, human detection |
 | [esp-hosted](https://github.com/espressif/esp-hosted) | 713 | 170 | Hosted Solution (Linux/MCU) with ESP32 (Wi-Fi + BT + BLE) |
 | [esp-matter](https://github.com/espressif/esp-matter) | 706 | 161 | Espressif's SDK for Matter |
 | [esp-apple-homekit-adk](https://github.com/espressif/esp-apple-homekit-adk) | 624 | 64 | This is a port for Apple's Open Source HomeKit ADK |
 | [esp-mqtt](https://github.com/espressif/esp-mqtt) | 614 | 258 | ESP32 mqtt component |
 | [esp-skainet](https://github.com/espressif/esp-skainet) | 589 | 134 | Espressif intelligent voice assistant |
 | [esp-dl](https://github.com/espressif/esp-dl) | 580 | 122 | Espressif deep-learning library for AIoT applications |
-| [esp-sr](https://github.com/espressif/esp-sr) | 577 | 106 | Speech recognition |
+| [esp-sr](https://github.com/espressif/esp-sr) | 578 | 106 | Speech recognition |
 | [esp-homekit-sdk](https://github.com/espressif/esp-homekit-sdk) | 569 | 109 | None |
+| [esp32-nesemu](https://github.com/espressif/esp32-nesemu) | 551 | 173 | Proof-of-concept NES emulator for the ESP32 |
 | [esp-now](https://github.com/espressif/esp-now) | 550 | 96 | A connectionless Wi-Fi communication protocol |
-| [esp32-nesemu](https://github.com/espressif/esp32-nesemu) | 550 | 173 | Proof-of-concept NES emulator for the ESP32 |
 | [esp-dsp](https://github.com/espressif/esp-dsp) | 490 | 92 | DSP library for ESP-IDF |
 | [ESP8266_AT](https://github.com/espressif/ESP8266_AT) | 471 | 227 | This project is not maintained, please use https://github.com/espressif/esp-at. |
-| [esp-rainmaker](https://github.com/espressif/esp-rainmaker) | 466 | 154 | ESP RainMaker Agent for firmware development |
+| [esp-rainmaker](https://github.com/espressif/esp-rainmaker) | 467 | 154 | ESP RainMaker Agent for firmware development |
 | [rust-esp32-example](https://github.com/espressif/rust-esp32-example) | 447 | 36 | Example of Rust integration into an ESP-IDF project, for ESP32 series of chips |
-| [esp-tflite-micro](https://github.com/espressif/esp-tflite-micro) | 396 | 85 | TensorFlow Lite Micro for Espressif Chipsets |
+| [esp-tflite-micro](https://github.com/espressif/esp-tflite-micro) | 397 | 85 | TensorFlow Lite Micro for Espressif Chipsets |
 | [esp-serial-flasher](https://github.com/espressif/esp-serial-flasher) | 388 | 112 | Library for flashing Espressif SoCs from other MCUs. |
 | [esp-dev-kits](https://github.com/espressif/esp-dev-kits) | 369 | 184 | Docs, Schematics, Factory Firmwares for ESP Development Kits |
-| [openocd-esp32](https://github.com/espressif/openocd-esp32) | 362 | 132 | OpenOCD branch with ESP32 JTAG support |
+| [openocd-esp32](https://github.com/espressif/openocd-esp32) | 363 | 132 | OpenOCD branch with ESP32 JTAG support |
 | [esp-aliyun](https://github.com/espressif/esp-aliyun) | 340 | 151 | Aliyun Iotkit-embedded, support esp32 & esp8266. |
 | [esp-idf-template](https://github.com/espressif/esp-idf-template) | 335 | 200 | Template application for https://github.com/espressif/esp-idf |
-| [idf-eclipse-plugin](https://github.com/espressif/idf-eclipse-plugin) | 313 | 121 | Espressif-IDE (based on Eclipse CDT) for ESP-IDF CMake based projects 4.x and above |
-| [esp-usb-bridge](https://github.com/espressif/esp-usb-bridge) | 300 | 34 | USB to UART&JTAG bridge, implemented on ESP32-S2 or ESP32-S3 |
+| [idf-eclipse-plugin](https://github.com/espressif/idf-eclipse-plugin) | 313 | 121 | Espressif-IDE (ESP-IDF Eclipse Plugin) for ESP-IDF CMake based projects 5.x and above |
+| [esp-usb-bridge](https://github.com/espressif/esp-usb-bridge) | 301 | 34 | USB to UART&JTAG bridge, implemented on ESP32-S2 or ESP32-S3 |
 | [esp-va-sdk](https://github.com/espressif/esp-va-sdk) | 294 | 83 | Espressif's Voice Assistant SDK: Alexa, Google Voice Assistant, Google DialogFlow |
 | [esptool-js](https://github.com/espressif/esptool-js) | 291 | 108 | Javascript implementation of flasher tool for Espressif chips, running in web browser using WebSerial. |
 | [esp-aws-iot](https://github.com/espressif/esp-aws-iot) | 271 | 164 | AWS IoT SDK for ESP32 based chipsets |
-| [esp-bsp](https://github.com/espressif/esp-bsp) | 203 | 105 | Board support components for Espressif development boards |
+| [esp-bsp](https://github.com/espressif/esp-bsp) | 204 | 105 | Board support components for Espressif development boards |
 | [esp-idf-provisioning-android](https://github.com/espressif/esp-idf-provisioning-android) | 203 | 134 | Android Provisioning application for ESP-IDF Unified provisioning |
 | [esp32-doom](https://github.com/espressif/esp32-doom) | 200 | 39 | A proof-of-concept port of PrBoom to the ESP32. Needs psram hardware. |
 | [esp-protocols](https://github.com/espressif/esp-protocols) | 198 | 135 | Collection of ESP-IDF components related to networking protocols |
 | [ESP31_RTOS_SDK](https://github.com/espressif/ESP31_RTOS_SDK) | 188 | 58 | ESP31B SDK based on FreeRTOS. For ESP32 please see http://github.com/espressif/esp-idf |
 | [esp-azure](https://github.com/espressif/esp-azure) | 178 | 93 | SDK to connect ESP8266 and ESP32 to Microsoft Azure IoT services |
+| [esp-zigbee-sdk](https://github.com/espressif/esp-zigbee-sdk) | 178 | 31 | Espressif Zigbee SDK |
 | [esp-jumpstart](https://github.com/espressif/esp-jumpstart) | 177 | 58 | Jumpstart from concept to production |
-| [esp-zigbee-sdk](https://github.com/espressif/esp-zigbee-sdk) | 177 | 31 | Espressif Zigbee SDK |
 | [esp32-wifi-lib](https://github.com/espressif/esp32-wifi-lib) | 167 | 71 | ESP32 WiFi stack precompiled libraries |
 | [esp-iot-bridge](https://github.com/espressif/esp-iot-bridge) | 165 | 54 | A smart bridge to make both ESP and the other MCU or smart device can access the Internet. |
 | [esp-gdbstub](https://github.com/espressif/esp-gdbstub) | 162 | 38 | None |
 | [idf-extra-components](https://github.com/espressif/idf-extra-components) | 153 | 93 | Additional components for ESP-IDF, maintained by Espressif |
 | [esp32-arduino-lib-builder](https://github.com/espressif/esp32-arduino-lib-builder) | 152 | 170 | None |
-| [esp-nn](https://github.com/espressif/esp-nn) | 145 | 24 | Optimised Neural Network functions for Espressif chipsets |
+| [esp-nn](https://github.com/espressif/esp-nn) | 144 | 24 | Optimised Neural Network functions for Espressif chipsets |
 | [esp-google-iot](https://github.com/espressif/esp-google-iot) | 143 | 44 | Google Cloud IoT SDK as an ESP-IDF Component |
 | [esp-idf-provisioning-ios](https://github.com/espressif/esp-idf-provisioning-ios) | 137 | 63 | None |
 | [esp-mesh-lite](https://github.com/espressif/esp-mesh-lite) | 135 | 23 | A lite version Wi-Fi Mesh, each node can access the network over the IP layer. |
@@ -85,10 +85,10 @@
 | [esp32c3-direct-boot-example](https://github.com/espressif/esp32c3-direct-boot-example) | 69 | 18 | Example of ESP32-C3 (rev. 3 and later) "direct boot" feature. |
 | [esp8266-nonos-sample-code](https://github.com/espressif/esp8266-nonos-sample-code) | 66 | 41 | None |
 | [esp-adf-libs](https://github.com/espressif/esp-adf-libs) | 61 | 41 | None |
+| [esp-brookesia](https://github.com/espressif/esp-brookesia) | 59 | 10 | ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices. |
 | [esp-moonlight](https://github.com/espressif/esp-moonlight) | 59 | 35 | None |
-| [esp-brookesia](https://github.com/espressif/esp-brookesia) | 58 | 10 | ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices. |
 | [freertos-gdb](https://github.com/espressif/freertos-gdb) | 58 | 9 | Python module for operating with freeRTOS kernel objects in GDB |
-| [svd](https://github.com/espressif/svd) | 57 | 2 | SVD files for Espressif devices |
+| [svd](https://github.com/espressif/svd) | 58 | 2 | SVD files for Espressif devices |
 | [openocd-on-esp32](https://github.com/espressif/openocd-on-esp32) | 56 | 6 | OpenOCD port running on ESP32-S3 microcontrollers |
 | [xtensa-isa-doc](https://github.com/espressif/xtensa-isa-doc) | 51 | 4 | None |
 | [esp-rainmaker-ios](https://github.com/espressif/esp-rainmaker-ios) | 48 | 25 | ESP RainMaker iOS app sources |
@@ -126,9 +126,9 @@
 | [esp32c3-bt-lib](https://github.com/espressif/esp32c3-bt-lib) | 17 | 7 | ESP32-C3/S3 Bluetooth stack (below HCI layer) precompiled libraries |
 | [esp-afr-sdk](https://github.com/espressif/esp-afr-sdk) | 16 | 17 | Espressif Base SDK for (Amazon) FreeRTOS |
 | [esp32-quake](https://github.com/espressif/esp32-quake) | 16 | 0 | Quake for the ESP32-P4 evaluation board |
+| [idf-build-apps](https://github.com/espressif/idf-build-apps) | 16 | 6 | Tool to build multiple IDF applications in CI |
 | [idf-web-ide](https://github.com/espressif/idf-web-ide) | 16 | 5 | cloud/ desktop IDE for ESP-IDF based on Eclipse Theia |
 | [esp-rom-elfs](https://github.com/espressif/esp-rom-elfs) | 15 | 3 | Espressif ROM binaries |
-| [idf-build-apps](https://github.com/espressif/idf-build-apps) | 15 | 6 | Tool to build multiple IDF applications in CI |
 | [kconfig-frontends](https://github.com/espressif/kconfig-frontends) | 15 | 9 | Fork of kconfig-frontends project with some modifications for use with ESP-IDF |
 | [qrcode-demo](https://github.com/espressif/qrcode-demo) | 15 | 4 | QR code recognition example |
 | [esp-hal-components](https://github.com/espressif/esp-hal-components) | 14 | 6 | HAL (hardware abstraction layer) components for Espressif chips |
